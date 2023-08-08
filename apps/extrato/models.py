@@ -1,5 +1,5 @@
 from django.db import models
-from apps.perfil.models import Categoria, Conta
+from perfil.models import Categoria, Conta
 
 
 class Valores(models.Model):
